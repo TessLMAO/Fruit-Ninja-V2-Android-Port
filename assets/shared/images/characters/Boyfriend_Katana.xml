@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BoyFriend_Katana.png">
+	<!-- Optimized by NT846 -->
+	<!-- https://youtube.com/c/NT846 -->
+	<SubTexture name="BF NOTE DOWN0000" x="0" y="1444" width="500" height="362"/>
+	<SubTexture name="BF NOTE DOWN0001" x="0" y="1444" width="500" height="362"/>
+	<SubTexture name="BF NOTE DOWN0002" x="1743" y="750" width="500" height="362"/>
+	<SubTexture name="BF NOTE DOWN0003" x="1743" y="750" width="500" height="362"/>
+	<SubTexture name="BF NOTE LEFT0000" x="0" y="1037" width="493" height="407"/>
+	<SubTexture name="BF NOTE LEFT0001" x="0" y="1037" width="493" height="407"/>
+	<SubTexture name="BF NOTE LEFT0002" x="637" y="629" width="493" height="407"/>
+	<SubTexture name="BF NOTE LEFT0003" x="637" y="629" width="493" height="407"/>
+	<SubTexture name="BF NOTE RIGHT0000" x="0" y="629" width="637" height="408"/>
+	<SubTexture name="BF NOTE RIGHT0001" x="0" y="629" width="637" height="408"/>
+	<SubTexture name="BF NOTE RIGHT0002" x="622" y="0" width="637" height="408"/>
+	<SubTexture name="BF NOTE RIGHT0003" x="622" y="0" width="637" height="408"/>
+	<SubTexture name="BF NOTE UP0000" x="1259" y="447" width="484" height="447"/>
+	<SubTexture name="BF NOTE UP0001" x="1259" y="447" width="484" height="447"/>
+	<SubTexture name="BF NOTE UP0002" x="1259" y="0" width="484" height="447"/>
+	<SubTexture name="BF NOTE UP0003" x="1259" y="0" width="484" height="447"/>
+	<SubTexture name="bf pre attack0000" x="1743" y="375" width="514" height="375"/>
+	<SubTexture name="bf pre attack0001" x="1743" y="0" width="514" height="375"/>
+	<SubTexture name="bf pre attack0002" x="1007" y="1037" width="514" height="375"/>
+	<SubTexture name="bf pre attack0003" x="493" y="1037" width="514" height="375"/>
+	<SubTexture name="bf pre attack0004" x="493" y="1037" width="514" height="375"/>
+	<SubTexture name="boyfriend attack0000" x="0" y="0" width="622" height="629"/>
+</TextureAtlas>

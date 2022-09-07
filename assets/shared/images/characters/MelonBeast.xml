@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MelonBeast.png">
+	<!-- Optimized by NT846 -->
+	<!-- https://www.youtube.com/c/NT846 -->
+	<SubTexture name="Melon Beast Down0000" x="1705" y="404" width="388" height="333"/>
+	<SubTexture name="Melon Beast Down0001" x="1705" y="757" width="388" height="333"/>
+	<SubTexture name="Melon Beast Idle0000" x="437" y="449" width="389" height="374"/>
+	<SubTexture name="Melon Beast Idle0001" x="846" y="449" width="389" height="374"/>
+	<SubTexture name="Melon Beast Idle0002" x="418" y="888" width="389" height="374"/>
+	<SubTexture name="Melon Beast Idle0003" x="827" y="888" width="389" height="374"/>
+	<SubTexture name="Melon Beast Idle0004" x="1236" y="888" width="389" height="374"/>
+	<SubTexture name="Melon Beast Idle0005" x="1705" y="10" width="389" height="374"/>
+	<SubTexture name="Melon Beast Left0000" x="10" y="10" width="410" height="419"/>
+	<SubTexture name="Melon Beast Left0001" x="440" y="10" width="410" height="419"/>
+	<SubTexture name="Melon Beast Right0000" x="870" y="10" width="407" height="419"/>
+	<SubTexture name="Melon Beast Right0001" x="10" y="449" width="407" height="419"/>
+	<SubTexture name="Melon Beast Up0000" x="1297" y="10" width="388" height="435"/>
+	<SubTexture name="Melon Beast Up0001" x="10" y="888" width="388" height="435"/>
+</TextureAtlas>
