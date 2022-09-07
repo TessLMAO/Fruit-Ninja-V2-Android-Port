@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="WatermelonBeastEnergy.png">
+	<!-- Optimized by NT846 -->
+	<!-- https://www.youtube.com/channel/UCxpb50juWEF52x_T01cgY1w -->
+	<SubTexture name="BeastTentaclesFull0000" x="0" y="0" width="1048" height="979"/>
+	<SubTexture name="BeastTentaclesFull0001" x="1048" y="0" width="1048" height="979"/>
+	<SubTexture name="BeastTentaclesFull0002" x="0" y="979" width="1048" height="979"/>
+	<SubTexture name="BeastTentaclesFull0003" x="1048" y="979" width="1048" height="979"/>
+	<SubTexture name="BeastTentaclesFull0004" x="2096" y="0" width="1048" height="979"/>
+	<SubTexture name="BeastTentaclesFull0005" x="2096" y="979" width="1048" height="979"/>
+</TextureAtlas>
